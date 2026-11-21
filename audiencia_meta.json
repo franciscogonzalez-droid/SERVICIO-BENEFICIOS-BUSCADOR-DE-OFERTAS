@@ -1,0 +1,28 @@
+{
+ "actualizado": "2026-11-21T16:09:06.635Z",
+ "subido_por": "FRANK",
+ "archivo_origen": "Audiencia Consolidado FILTROS FRANK_2026-11-21.csv",
+ "mes": "2611",
+ "registros": 39303,
+ "vin_unicos": 38963,
+ "vin_con_2_ofertas": 340,
+ "ofertas": {
+  "Inactivos": 30325,
+  "Leales Fuera de Garantia": 1767,
+  "Primer Servicio": 1545,
+  "Retenidos en Riesgo": 5666
+ },
+ "cves": {
+  "226": 4801,
+  "229": 3064,
+  "235": 3072,
+  "246": 2392,
+  "249": 3285,
+  "322": 7750,
+  "325": 4826,
+  "326": 4342,
+  "327": 2989,
+  "542": 1389,
+  "543": 1393
+ }
+}
