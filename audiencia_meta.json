@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-11-21T16:09:06.635Z",
+ "actualizado": "2026-11-23T01:27:33.746Z",
  "subido_por": "FRANK",
- "archivo_origen": "Audiencia Consolidado FILTROS FRANK_2026-11-21.csv",
+ "archivo_origen": "Audiencia Consolidado FILTROS FRANK_2026-11-22.csv",
  "mes": "2611",
- "registros": 39303,
- "vin_unicos": 38963,
- "vin_con_2_ofertas": 340,
+ "registros": 39236,
+ "vin_unicos": 38898,
+ "vin_con_2_ofertas": 338,
  "ofertas": {
   "Inactivos": 30325,
-  "Leales Fuera de Garantia": 1767,
-  "Primer Servicio": 1545,
-  "Retenidos en Riesgo": 5666
+  "Leales Fuera de Garantia": 1751,
+  "Primer Servicio": 1525,
+  "Retenidos en Riesgo": 5635
  },
  "cves": {
-  "226": 4801,
-  "229": 3064,
-  "235": 3072,
-  "246": 2392,
-  "249": 3285,
-  "322": 7750,
-  "325": 4826,
-  "326": 4342,
-  "327": 2989,
-  "542": 1389,
-  "543": 1393
+  "226": 4795,
+  "229": 3057,
+  "235": 3065,
+  "246": 2386,
+  "249": 3282,
+  "322": 7739,
+  "325": 4818,
+  "326": 4338,
+  "327": 2983,
+  "542": 1381,
+  "543": 1392
  }
 }
